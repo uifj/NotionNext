@@ -7,10 +7,10 @@ const CONFIG = {
 
   MAGZINE_HOME_HIDDEN_CATEGORY: '分享杂文', //不希望在首页展示的文章分类，用英文逗号隔开
 
-  MAGZINE_HOME_TITLE: '立即开创您的在线业务。完全免费。',
+  MAGZINE_HOME_TITLE: '嗨 👋, 我是有限风(uifj)。',
   MAGZINE_HOME_DESCRIPTION:
-    '借助NotionNext，获得助您开创、经营和扩展业务所需的全部工具和帮助。',
-  MAGZINE_HOME_TIPS: 'AI时代来临，这是属于超级个体的狂欢盛宴！',
+    '一个独立的全栈移动应用开发者 | 系统架构爱好者 | 游戏开发爱好者。',
+  MAGZINE_HOME_TIPS: '✨ 技术驱动创新，代码改变世界 - 致力于让有限的人生吹起无限的风',
 
   // 首页底部推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   MAGZINE_RECOMMEND_POST_TAG: '推荐',
@@ -54,7 +54,7 @@ const CONFIG = {
     {
       name: '开发者',
       menus: [
-        { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
+        { title: 'Github', href: 'https://github.com/uifj' },
         {
           title: '开发帮助',
           href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
@@ -69,7 +69,7 @@ const CONFIG = {
         },
         {
           title: '关于作者',
-          href: 'https://blog.tangly1024.com/about'
+          href: 'https://blog.uifj.top/about'
         }
       ]
     },
